@@ -1,4 +1,4 @@
-*Este proyecto ha sido creado como parte del currículo de 42 por jpedraza.*
+*Este proyecto ha sido creado como parte del currículo de 42 Málaga Fundación Telefónica por jpedraza.*
 
 # ft_printf
 
@@ -12,7 +12,7 @@ El proyecto **ft_printf** consiste en recrear el comportamiento básico de la fu
 - La gestión de distintos tipos de datos
 - La estructura y organización de una librería en C
 
-La implementación ha sido desarrollada siguiendo estrictamente **La Norma de 42**, manteniendo funciones pequeñas, legibles y modulares.
+La implementación ha sido desarrollada siguiendo estrictamente **La normativa de 42 Málaga Fundación Telefónica**, manteniendo funciones pequeñas, legibles y modulares.
 
 ---
 
@@ -147,7 +147,7 @@ Todo el proyecto ha sido desarrollado respetando:
 - Formato snake_case
 - Uso correcto de tabulaciones
 - Separación modular de responsabilidades
-- Restricciones de la Norma de 42
+- Restricciones de la normativa de 42 Málaga Fundación Telefónica
 
 ---
 
